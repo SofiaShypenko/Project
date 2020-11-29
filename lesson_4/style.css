@@ -1,0 +1,28 @@
+.black {
+background-color: black;
+color: aliceblue;
+}
+.orange {
+    background-color: orange 
+
+}
+.green {
+    background-color: green
+
+}
+.blue{
+    background-color: blue
+}
+.yellow {
+    background-color: yellow
+}
+.red {
+    background-color: red
+}
+.purple{
+    background-color: purple
+}
+img{
+    width: 150px;
+    height: 150px;
+}
